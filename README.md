@@ -1,2 +1,3 @@
 # OtherFromPython
-This is a collection of codes from other libraries.
+
+This repository contains practice notebooks in other libraries of Python.
